@@ -1,5 +1,5 @@
 Hello, I’m Carlo Davila Severiano!
 
-I am presently a senior in GACA and Wiregrass Technical college, interested in computer science, economics, and and polictical science.
+I am a student at Clemson University studying Economics with a double speciality in Legal Studies and Cybersecurity. Here, you can find some of my open-source and private projects. 
 
-you can contact me at alt@carlo.lol
+Enjoy!
